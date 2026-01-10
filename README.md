@@ -1,4 +1,5 @@
 # Compliance Assistant with RAG and LoRA
+![CI](https://github.com/baddy1411/compliance-assistant/actions/workflows/python-ci.yml/badge.svg)
 
 This repository showcases a domain‑specific compliance engine that retrieves the latest regulations and internal policies using a retrieval‑augmented generation (RAG) pipeline and generates tailored documents with a fine‑tuned model. RAG pulls documents from databases, knowledge bases or the web to ground outputs and reduce hallucinations【736712269151221†L420-L425】. Parameter‑efficient techniques like LoRA allow the model to be tuned to company‑specific guidelines at low cost【736712269151221†L420-L425】.
 
