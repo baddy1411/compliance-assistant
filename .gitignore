@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+
+# Vector stores / local state
+chroma_db/
+.chroma/
+
+# Training outputs
+adapters/
+runs/
+
+# Eval artifacts
+evals/last_run.json
+
+# Secrets
+.env
+
+# Kafka data (docker volumes live in Docker, but keep the tree clean)
+data/kafka/
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/

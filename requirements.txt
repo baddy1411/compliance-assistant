@@ -1,7 +1,21 @@
-fastapi
-uvicorn
-kafka-python
-pydantic
-transformers
-peft
-sentence-transformers
+# Pinned dependencies for the compliance-assistant project.
+# Versions below are the ones the test suite (28 tests), the end-to-end demo
+# and the eval harness were verified against on 2026-09-21.
+#
+# NOTE on torch: install the build matching your machine (CPU-only or CUDA)
+# from https://download.pytorch.org/whl/torch -- e.g.
+#   pip install torch==2.14.0 --index-url https://download.pytorch.org/whl/cpu
+# The pin below resolves to the default (CUDA-bundled) wheel on PyPI.
+fastapi==0.141.1
+uvicorn==0.53.0
+pydantic==2.13.5
+chromadb==1.5.9
+sentence-transformers==6.1.0
+openai==3.16.2
+pypdf==6.19.0
+kafka-python==3.0.11
+transformers==5.17.0
+peft==0.21.0
+torch==2.14.0
+pytest==9.1.1
+httpx==0.28.1

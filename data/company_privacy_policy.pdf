@@ -1,0 +1,112 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 2278 >>
+stream
+BT
+/F1 11 Tf
+50 760 Td
+14 TL
+(PRIVACY POLICY - NORTHWIND ANALYTICS GMBH) Tj
+T*
+T*
+(1. Controller. Northwind Analytics GmbH, Hafenstrasse 12, 28217 Bremen,) Tj
+T*
+(Germany, is the controller for personal data processed through our) Tj
+T*
+(analytics platform.) Tj
+T*
+T*
+(2. Data we collect. We collect account data \(name, work email\), usage) Tj
+T*
+(data \(log files, feature interactions\) and customer-provided datasets) Tj
+T*
+(uploaded to the platform. We do not collect special categories of) Tj
+T*
+(personal data unless you provide them explicitly.) Tj
+T*
+T*
+(3. Purposes and legal bases. We process account data to perform our) Tj
+T*
+(contract with you \(Art. 6\(1\)\(b\) GDPR\) and usage data based on our) Tj
+T*
+(legitimate interest in improving the platform \(Art. 6\(1\)\(f\) GDPR\).) Tj
+T*
+(Marketing emails are sent only with your consent \(Art. 6\(1\)\(a\) GDPR\).) Tj
+T*
+T*
+(4. Retention. The retention period for customer data is 24 months.) Tj
+T*
+(After this period, personal data is deleted or anonymised. Log files) Tj
+T*
+(are retained for 12 months for security purposes.) Tj
+T*
+T*
+(5. Your rights. You have the right to access, rectify, erase, restrict) Tj
+T*
+(or port your data, and to object to processing. Contact our data) Tj
+T*
+(protection officer at dpo@northwind-example.de.) Tj
+T*
+T*
+(6. Data sharing. We share data only with processors bound by Art. 28) Tj
+T*
+(GDPR agreements. No sale of personal data takes place.) Tj
+T*
+T*
+(7. Security measures. We protect personal data with encryption in) Tj
+T*
+(transit and at rest, role-based access controls, multi-factor) Tj
+T*
+(authentication and regular penetration testing of our platform.) Tj
+T*
+T*
+(8. International transfers. Where data leaves the EEA, we rely on) Tj
+T*
+(adequacy decisions or standard contractual clauses under Art. 46 GDPR) Tj
+T*
+(to guarantee an equivalent level of protection.) Tj
+T*
+T*
+(9. Supervisory authority. You may lodge a complaint with your local) Tj
+T*
+(data protection authority, e.g. Die Landesbeauftragte fuer Datenschutz) Tj
+T*
+(und Informationsfreiheit in Bremen.) Tj
+T*
+T*
+T*
+(10. Cookies. We use strictly necessary cookies to keep you signed) Tj
+T*
+(in. Analytics cookies are set only after you accept the banner.) Tj
+T*
+T*
+(Last updated: September 2026.) Tj
+T*
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000241 00000 n 
+0000002571 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2641
+%%EOF
